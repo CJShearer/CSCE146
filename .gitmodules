@@ -1,3 +1,30 @@
 [submodule "Homework/Homework01-Showcase-Game"]
 	path = Homework/Homework01-Showcase-Game
 	url = https://github.com/CJShearer/Homework01-Showcase-Game.git
+[submodule "Homework/Homework02-Double-Linked-List"]
+	path = Homework/Homework02-Double-Linked-List
+	url = https://github.com/CJShearer/Homework02-Double-Linked-List.git
+[submodule "Homework/Homework03-RPS-Tournament"]
+	path = Homework/Homework03-RPS-Tournament
+	url = https://github.com/CJShearer/Homework03-RPS-Tournament.git
+[submodule "Homework/Homework04-Polish-Calculator"]
+	path = Homework/Homework04-Polish-Calculator
+	url = https://github.com/CJShearer/Homework04-Polish-Calculator.git
+[submodule "Homework/Homework05-Serpinski-Triangle"]
+	path = Homework/Homework05-Serpinski-Triangle
+	url = https://github.com/CJShearer/Homework05-Serpinski-Triangle.git
+[submodule "Homework/Homework06-Sorting-Comparison"]
+	path = Homework/Homework06-Sorting-Comparison
+	url = https://github.com/CJShearer/Homework06-Sorting-Comparison.git
+[submodule "Homework/Homework07-Binary-Shape-Tree"]
+	path = Homework/Homework07-Binary-Shape-Tree
+	url = https://github.com/CJShearer/Homework07-Binary-Shape-Tree.git
+[submodule "Homework/Homework08-Jeep-Heap"]
+	path = Homework/Homework08-Jeep-Heap
+	url = https://github.com/CJShearer/Homework08-Jeep-Heap.git
+[submodule "Homework/Homework09-Binary-Fruit-Tree"]
+	path = Homework/Homework09-Binary-Fruit-Tree
+	url = https://github.com/CJShearer/Homework09-Binary-Fruit-Tree.git
+[submodule "Homework/Homework10-Word-Search"]
+	path = Homework/Homework10-Word-Search
+	url = https://github.com/CJShearer/Homework10-Word-Search.git
