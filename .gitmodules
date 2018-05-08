@@ -28,3 +28,36 @@
 [submodule "Homework/Homework10-Word-Search"]
 	path = Homework/Homework10-Word-Search
 	url = https://github.com/CJShearer/Homework10-Word-Search.git
+[submodule "Lab/Lab01-Mine-Counter"]
+	path = Lab/Lab01-Mine-Counter
+	url = https://github.com/CJShearer/Lab01-Mine-Counter.git
+[submodule "Lab/Lab02-Grade-Calculator"]
+	path = Lab/Lab02-Grade-Calculator
+	url = https://github.com/CJShearer/Lab02-Grade-Calculator.git
+[submodule "Lab/Lab03-Grocery-List"]
+	path = Lab/Lab03-Grocery-List
+	url = https://github.com/CJShearer/Lab03-Grocery-List.git
+[submodule "Lab/Lab04-Circular-Linked-List"]
+	path = Lab/Lab04-Circular-Linked-List
+	url = https://github.com/CJShearer/Lab04-Circular-Linked-List.git
+[submodule "Lab/Lab05-Process-Scheduler"]
+	path = Lab/Lab05-Process-Scheduler
+	url = https://github.com/CJShearer/Lab05-Process-Scheduler.git
+[submodule "Lab/Lab06-Contained-Words"]
+	path = Lab/Lab06-Contained-Words
+	url = https://github.com/CJShearer/Lab06-Contained-Words.git
+[submodule "Lab/Lab07-Search-Comparison"]
+	path = Lab/Lab07-Search-Comparison
+	url = https://github.com/CJShearer/Lab07-Search-Comparison.git
+[submodule "Lab/Lab08-Binary-Search-Tree"]
+	path = Lab/Lab08-Binary-Search-Tree
+	url = https://github.com/CJShearer/Lab08-Binary-Search-Tree.git
+[submodule "Lab/Lab09-Min-Integer-Heap"]
+	path = Lab/Lab09-Min-Integer-Heap
+	url = https://github.com/CJShearer/Lab09-Min-Integer-Heap.git
+[submodule "Lab/Lab10-Process-Heap"]
+	path = Lab/Lab10-Process-Heap
+	url = https://github.com/CJShearer/Lab10-Process-Heap.git
+[submodule "Lab/Lab11-Cycle-Finder"]
+	path = Lab/Lab11-Cycle-Finder
+	url = https://github.com/CJShearer/Lab11-Cycle-Finder.git
